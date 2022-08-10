@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564119918398",
+    "firebase_url": "https://ghino-a0fa1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ghino-a0fa1",
+    "storage_bucket": "ghino-a0fa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564119918398:android:627b4d07709e7eced97e6f",
+        "android_client_info": {
+          "package_name": "com.ghino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564119918398-sm5vlde10db5oppv20khcorr56dv4mli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEdI5iGm8saU0kngcynA9Q0T8kIQFLIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564119918398-sm5vlde10db5oppv20khcorr56dv4mli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
